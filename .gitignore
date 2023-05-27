@@ -1,0 +1,4 @@
+#Avoid compiled files from getting pushed.
+
+*.class
+*.ctxt
